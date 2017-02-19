@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/chees_000/Documents/Programs/CSM51A/Project3/Project3.sim/sim_1/synth/func/csm51a_proj3_tb_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module csm51a_proj3
+INFO: [VRFC 10-311] analyzing module csm51a_proj3_tb
+INFO: [VRFC 10-311] analyzing module glbl

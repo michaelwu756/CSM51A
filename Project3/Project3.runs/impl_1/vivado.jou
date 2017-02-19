@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Mon Aug 08 09:40:23 2016
+# Process ID: 16236
+# Current directory: C:/Users/chees_000/Documents/Programs/CSM51A/Project3/Project3.runs/impl_1
+# Command line: vivado.exe -log csm51a_proj3_tb.vdi -applog -messageDb vivado.pb -mode batch -source csm51a_proj3_tb.tcl -notrace
+# Log file: C:/Users/chees_000/Documents/Programs/CSM51A/Project3/Project3.runs/impl_1/csm51a_proj3_tb.vdi
+# Journal file: C:/Users/chees_000/Documents/Programs/CSM51A/Project3/Project3.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source csm51a_proj3_tb.tcl -notrace

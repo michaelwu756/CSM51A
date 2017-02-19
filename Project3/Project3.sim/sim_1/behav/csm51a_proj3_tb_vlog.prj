@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../Project3.srcs/sources_1/new/jkff.v"
+verilog xil_defaultlib  "../../../Project3.srcs/sources_1/new/csm51a_proj3.v"
+verilog xil_defaultlib  "../../../Project3.srcs/sources_1/new/csm51a_proj3_tb.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

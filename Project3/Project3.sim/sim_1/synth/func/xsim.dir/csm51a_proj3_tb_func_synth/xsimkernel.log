@@ -1,0 +1,7 @@
+Running: xsim.dir/csm51a_proj3_tb_func_synth/xsimk.exe -simmode gui -wdb csm51a_proj3_tb_func_synth.wdb -simrunnum 0 -socket 60685
+Design successfully loaded
+Design Loading Memory Usage: 8392 KB (Peak: 8392 KB)
+Design Loading CPU Usage: 77 ms
+Simulation completed
+Simulation Memory Usage: 8884 KB (Peak: 8884 KB)
+Simulation CPU Usage: 93 ms

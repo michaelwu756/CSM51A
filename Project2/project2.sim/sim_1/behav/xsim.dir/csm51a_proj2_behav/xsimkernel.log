@@ -1,0 +1,7 @@
+Running: xsim.dir/csm51a_proj2_behav/xsimk.exe -simmode gui -wdb csm51a_proj2_behav.wdb -simrunnum 0 -socket 59027
+Design successfully loaded
+Design Loading Memory Usage: 7780 KB (Peak: 7780 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 8320 KB (Peak: 8320 KB)
+Simulation CPU Usage: 15 ms

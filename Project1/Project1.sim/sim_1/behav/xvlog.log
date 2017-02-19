@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/chees_000/Documents/Programs/CSM51A/Project1/Project1.srcs/sources_1/new/circut.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module myCircut
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/chees_000/Documents/Programs/CSM51A/Project1/Project1.srcs/sim_1/new/sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/chees_000/Documents/Programs/CSM51A/Project1/Project1.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
